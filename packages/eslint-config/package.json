@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/eslint-config",
+  "name": "@vini-ignite-ui/eslint-config",
   "main": "index.js",
   "private": true,
   "license": "MIT",
