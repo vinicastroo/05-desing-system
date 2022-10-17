@@ -1,0 +1,2 @@
+import{f as t,g as e,a as s}from"./index.47f815ad.js";import{j as o}from"./jsx-runtime.9a8cc26f.js";import"./index.cad5f5cb.js";import"./iframe.baf0ea4b.js";import"./index.df4aa874.js";const m={title:"Form/Tooltip",component:t,args:{},decorators:[r=>o(e,{children:r()})]},d={args:{children:o(s,{children:"Teste"}),content:"21 de Outubro - Indispon\xEDvel"}},l=["Primary"];export{d as Primary,l as __namedExportsOrder,m as default};
+//# sourceMappingURL=Tooltip.stories.f4a5799b.js.map

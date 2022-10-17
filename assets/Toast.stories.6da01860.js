@@ -1,0 +1,2 @@
+import{d as r,$ as t,e as o}from"./index.47f815ad.js";import{a as s,j as a}from"./jsx-runtime.9a8cc26f.js";import"./index.cad5f5cb.js";import"./iframe.baf0ea4b.js";import"./index.df4aa874.js";const c={title:"Form/Toast",component:r,args:{},decorators:[e=>s(t,{swipeDirection:"right",children:[e(),a(o,{})]})]},$={args:{title:"Agendamento realizado",open:!0}},x=["Primary"];export{$ as Primary,x as __namedExportsOrder,c as default};
+//# sourceMappingURL=Toast.stories.6da01860.js.map
